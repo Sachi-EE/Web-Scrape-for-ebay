@@ -1,5 +1,5 @@
 # Web-Scrape-for-ebay
-This program will automatically search the ebay page for specific products and scrape the description and price of those products 
+This program will automatically search ebay for specific products 
 
 1) Automatically search the items listed 
 2) Returns the url for each page
